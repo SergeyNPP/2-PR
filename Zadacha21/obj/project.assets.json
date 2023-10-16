@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming 08.10.23\\Practics\\PR2\\Zadacha21\\Zadacha21.csproj",
+      "projectUniqueName": "E:\\ZP\\Practics\\PR2\\Zadacha21\\Zadacha21.csproj",
       "projectName": "Zadacha21",
-      "projectPath": "E:\\Programming 08.10.23\\Practics\\PR2\\Zadacha21\\Zadacha21.csproj",
+      "projectPath": "E:\\ZP\\Practics\\PR2\\Zadacha21\\Zadacha21.csproj",
       "packagesPath": "C:\\Users\\Работяга\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming 08.10.23\\Practics\\PR2\\Zadacha21\\obj\\",
+      "outputPath": "E:\\ZP\\Practics\\PR2\\Zadacha21\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Работяга\\AppData\\Roaming\\NuGet\\NuGet.Config"

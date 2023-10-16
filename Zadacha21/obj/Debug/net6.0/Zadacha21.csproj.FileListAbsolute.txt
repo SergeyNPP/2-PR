@@ -13,3 +13,18 @@ E:\Programming 08.10.23\Practics\PR2\Zadacha21\obj\Debug\net6.0\refint\Zadacha21
 E:\Programming 08.10.23\Practics\PR2\Zadacha21\obj\Debug\net6.0\Zadacha21.pdb
 E:\Programming 08.10.23\Practics\PR2\Zadacha21\obj\Debug\net6.0\Zadacha21.genruntimeconfig.cache
 E:\Programming 08.10.23\Practics\PR2\Zadacha21\obj\Debug\net6.0\ref\Zadacha21.dll
+E:\ZP\Practics\PR2\Zadacha21\bin\Debug\net6.0\Zadacha21.exe
+E:\ZP\Practics\PR2\Zadacha21\bin\Debug\net6.0\Zadacha21.deps.json
+E:\ZP\Practics\PR2\Zadacha21\bin\Debug\net6.0\Zadacha21.runtimeconfig.json
+E:\ZP\Practics\PR2\Zadacha21\bin\Debug\net6.0\Zadacha21.dll
+E:\ZP\Practics\PR2\Zadacha21\bin\Debug\net6.0\Zadacha21.pdb
+E:\ZP\Practics\PR2\Zadacha21\obj\Debug\net6.0\Zadacha21.csproj.AssemblyReference.cache
+E:\ZP\Practics\PR2\Zadacha21\obj\Debug\net6.0\Zadacha21.GeneratedMSBuildEditorConfig.editorconfig
+E:\ZP\Practics\PR2\Zadacha21\obj\Debug\net6.0\Zadacha21.AssemblyInfoInputs.cache
+E:\ZP\Practics\PR2\Zadacha21\obj\Debug\net6.0\Zadacha21.AssemblyInfo.cs
+E:\ZP\Practics\PR2\Zadacha21\obj\Debug\net6.0\Zadacha21.csproj.CoreCompileInputs.cache
+E:\ZP\Practics\PR2\Zadacha21\obj\Debug\net6.0\Zadacha21.dll
+E:\ZP\Practics\PR2\Zadacha21\obj\Debug\net6.0\refint\Zadacha21.dll
+E:\ZP\Practics\PR2\Zadacha21\obj\Debug\net6.0\Zadacha21.pdb
+E:\ZP\Practics\PR2\Zadacha21\obj\Debug\net6.0\Zadacha21.genruntimeconfig.cache
+E:\ZP\Practics\PR2\Zadacha21\obj\Debug\net6.0\ref\Zadacha21.dll

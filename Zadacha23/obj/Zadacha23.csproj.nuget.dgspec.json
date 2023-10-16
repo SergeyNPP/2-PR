@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming 08.10.23\\Practics\\PR2\\Zadacha23\\Zadacha23.csproj": {}
+    "E:\\ZP\\Practics\\PR2\\Zadacha23\\Zadacha23.csproj": {}
   },
   "projects": {
-    "E:\\Programming 08.10.23\\Practics\\PR2\\Zadacha23\\Zadacha23.csproj": {
+    "E:\\ZP\\Practics\\PR2\\Zadacha23\\Zadacha23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming 08.10.23\\Practics\\PR2\\Zadacha23\\Zadacha23.csproj",
+        "projectUniqueName": "E:\\ZP\\Practics\\PR2\\Zadacha23\\Zadacha23.csproj",
         "projectName": "Zadacha23",
-        "projectPath": "E:\\Programming 08.10.23\\Practics\\PR2\\Zadacha23\\Zadacha23.csproj",
+        "projectPath": "E:\\ZP\\Practics\\PR2\\Zadacha23\\Zadacha23.csproj",
         "packagesPath": "C:\\Users\\Работяга\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming 08.10.23\\Practics\\PR2\\Zadacha23\\obj\\",
+        "outputPath": "E:\\ZP\\Practics\\PR2\\Zadacha23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Работяга\\AppData\\Roaming\\NuGet\\NuGet.Config"
