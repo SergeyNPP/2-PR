@@ -1,0 +1,15 @@
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\bin\Debug\net6.0\Zadacha23.exe
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\bin\Debug\net6.0\Zadacha23.deps.json
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\bin\Debug\net6.0\Zadacha23.runtimeconfig.json
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\bin\Debug\net6.0\Zadacha23.dll
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\bin\Debug\net6.0\Zadacha23.pdb
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\obj\Debug\net6.0\Zadacha23.csproj.AssemblyReference.cache
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\obj\Debug\net6.0\Zadacha23.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\obj\Debug\net6.0\Zadacha23.AssemblyInfoInputs.cache
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\obj\Debug\net6.0\Zadacha23.AssemblyInfo.cs
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\obj\Debug\net6.0\Zadacha23.csproj.CoreCompileInputs.cache
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\obj\Debug\net6.0\Zadacha23.dll
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\obj\Debug\net6.0\refint\Zadacha23.dll
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\obj\Debug\net6.0\Zadacha23.pdb
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\obj\Debug\net6.0\Zadacha23.genruntimeconfig.cache
+E:\Programming 08.10.23\Practics\PR2\Zadacha23\obj\Debug\net6.0\ref\Zadacha23.dll

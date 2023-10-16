@@ -1,0 +1,15 @@
+E:\Programming 08.10.23\Practics\PR2\SEM2\bin\Debug\net6.0\SEM2.exe
+E:\Programming 08.10.23\Practics\PR2\SEM2\bin\Debug\net6.0\SEM2.deps.json
+E:\Programming 08.10.23\Practics\PR2\SEM2\bin\Debug\net6.0\SEM2.runtimeconfig.json
+E:\Programming 08.10.23\Practics\PR2\SEM2\bin\Debug\net6.0\SEM2.dll
+E:\Programming 08.10.23\Practics\PR2\SEM2\bin\Debug\net6.0\SEM2.pdb
+E:\Programming 08.10.23\Practics\PR2\SEM2\obj\Debug\net6.0\SEM2.csproj.AssemblyReference.cache
+E:\Programming 08.10.23\Practics\PR2\SEM2\obj\Debug\net6.0\SEM2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming 08.10.23\Practics\PR2\SEM2\obj\Debug\net6.0\SEM2.AssemblyInfoInputs.cache
+E:\Programming 08.10.23\Practics\PR2\SEM2\obj\Debug\net6.0\SEM2.AssemblyInfo.cs
+E:\Programming 08.10.23\Practics\PR2\SEM2\obj\Debug\net6.0\SEM2.csproj.CoreCompileInputs.cache
+E:\Programming 08.10.23\Practics\PR2\SEM2\obj\Debug\net6.0\SEM2.dll
+E:\Programming 08.10.23\Practics\PR2\SEM2\obj\Debug\net6.0\refint\SEM2.dll
+E:\Programming 08.10.23\Practics\PR2\SEM2\obj\Debug\net6.0\SEM2.pdb
+E:\Programming 08.10.23\Practics\PR2\SEM2\obj\Debug\net6.0\SEM2.genruntimeconfig.cache
+E:\Programming 08.10.23\Practics\PR2\SEM2\obj\Debug\net6.0\ref\SEM2.dll
